@@ -52,7 +52,7 @@ commands:
             {
               "@type": "MessageCard",
               "@context": "http://schema.org/extensions",
-              "themeCdocker_jobolor": "__theme_color__",
+              "themeColor": "__theme_color__",
               "summary": "CircleCI Build Notification",
               "sections": [
                 {
